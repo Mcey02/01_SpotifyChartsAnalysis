@@ -10,7 +10,7 @@ Specific questions and answers are largely of one kind with several variations. 
  - Region: Yes
  - Top Artists: No
  - Top Songs: No
- - Chart: No
+ - Chart: Minorly
  - Popularity: No
  - Average Trend: Minorly
 
