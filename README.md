@@ -23,6 +23,6 @@ This dataset is the "Spotify Charts (All Audio Data)” pulled from Kaggle with 
 Link to Dataset: https://www.kaggle.com/datasets/sunnykakar/spotify-charts-all-audio-data
 
 #### Presentation and Report
-Report: 
+Report: https://github.com/Mcey02/01_SpotifyChartsAnalysis/blob/main/01_SpotifyChartsAnalysis_Part4.pdf
 
 Presentation: 
