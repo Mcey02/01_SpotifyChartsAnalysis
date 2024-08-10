@@ -25,4 +25,6 @@ Link to Dataset: https://www.kaggle.com/datasets/sunnykakar/spotify-charts-all-a
 #### Presentation and Report
 Report: https://github.com/Mcey02/01_SpotifyChartsAnalysis/blob/main/01_SpotifyChartsAnalysis_Part4.pdf
 
-Presentation: 
+Video: https://github.com/Mcey02/01_SpotifyChartsAnalysis/blob/main/01_SpotifyChartsAnalysis_Part6_Video.mp4
+
+Slides: https://github.com/Mcey02/01_SpotifyChartsAnalysis/blob/main/01_SpotifyChartsAnalysis_Part6.pdf
